@@ -1,0 +1,9 @@
+a {
+    color: red;
+    font-size: 26px;
+    &:hover {
+      color: yellow;
+      font-size: 24px;
+    }
+  }
+  
